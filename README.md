@@ -6,8 +6,8 @@ we check accuracy of model with all Classification Algorithm Like Logistic regre
 
 # Used library
 
-pandas
-matplotlib
-seaborn
-pylab
-sklearn
+pandas,
+matplotlib,
+seaborn,
+pylab,
+sklearn,
